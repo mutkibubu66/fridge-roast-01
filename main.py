@@ -5,9 +5,12 @@ Pure standard library, no network. Writes the line to /output/entry.txt
 and prints it to stdout.
 
 The line roasts the ice maker: a machine whose only job is freezing
-water now demands a firmware update, a Wi-Fi signal, and a pep talk
-before it will make one cube — three needless preconditions for the
-simplest job in the kitchen.
+water now demands three preconditions before it will make one cube —
+a firmware update, a Wi-Fi signal, and a pep talk. The third item is
+the turn: an appliance that needs emotional support before doing the
+one thing it was built for. It aims squarely at the fridge's firmware
+and connectivity, not at the generic "it orders groceries" or "it
+watches you" cracks every other roast reaches for first.
 """
 
 import os
